@@ -1,0 +1,17 @@
+.codelite
+Makefile
+Section4.workspace
+Project2.mk
+Project1.mk
+Project1.project
+Project2.project
+ChallengeSolution.mk
+ChallengeSolution.project
+CompilerErrors.mk
+CompilerErrors.project
+CompilerWarnings.mk
+CompilerWarnings.project
+FirstProgram.mk
+FirstProgram.project
+LinkerError.mk
+LinkerError.project
