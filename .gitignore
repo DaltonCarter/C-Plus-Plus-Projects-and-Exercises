@@ -5,8 +5,6 @@ Project2.mk
 Project1.mk
 Project1.project
 Project2.project
-ChallengeSolution.mk
-ChallengeSolution.project
 CompilerErrors.mk
 CompilerErrors.project
 CompilerWarnings.mk
