@@ -25,4 +25,4 @@
 
  ## Second Lessons:
 
- > I decided not to download the source code for this section, instead opting to type out my notes, and then code out what was being demonstrated on screen myself. While all of this is still the instructors code, strictly speakin,g I at least got the practice of typing this stuff out myself, and it helped. I was able to complete the section challenge while it was being explained. So I guess I will be doing this more in the future even though it greatly increased the lesson time due to pausing and rewinding.
+ > I decided not to download the source code for this section, instead opting to type out my notes, and then code out what was being demonstrated on screen myself. While all of this is still the instructors code, strictly speaking I at least got the practice of typing this stuff out myself, and it helped. I was able to complete the section challenge while it was being explained. So I guess I will be doing this more in the future even though it greatly increased the lesson time due to pausing and rewinding.
