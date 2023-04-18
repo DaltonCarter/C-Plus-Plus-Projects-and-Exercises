@@ -22,3 +22,7 @@
  > The only programs I typed myself are in the FirstProgram, and Challenge folders, First Program was a simple code-a-long, it will ask you what your favorite number is between 1 and 100 take your input and save it to a variable, and then print a response.
  > While the challenge was to take the first program, and add functionality for it to
  > Claim that the input number was it's favorite number.
+
+ ## Second Lessons:
+
+ > I decided not to download the source code for this section, instead opting to type out my notes, and then code out what was being demonstrated on screen myself. While all of this is still the instructors code, strictly speakin,g I at least got the practice of typing this stuff out myself, and it helped. I was able to complete the section challenge while it was being explained. So I guess I will be doing this more in the future even though it greatly increased the lesson time due to pausing and rewinding.
