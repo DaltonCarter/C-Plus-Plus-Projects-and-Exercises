@@ -26,3 +26,13 @@
  ## Second Lessons:
 
  > I decided not to download the source code for this section, instead opting to type out my notes, and then code out what was being demonstrated on screen myself. While all of this is still the instructors code, strictly speaking I at least got the practice of typing this stuff out myself, and it helped. I was able to complete the section challenge while it was being explained. So I guess I will be doing this more in the future even though it greatly increased the lesson time due to pausing and rewinding.
+
+ ## Third Lessons:
+
+ > I decided not to download the source code for this section, instead opting to type out my notes, and then code out what was being demonstrated on screen myself. While all of this is still the instructors code, strictly speaking I at least got the practice of typing this stuff out myself, and it helped. The lessons and challenge for this entry had to do with Arrays and Vectors, and covered the basic rules, and syntax as well as going over some basic information about multidimensional functionality. The Challenge is just a series of tasks designed to get used to working with them, and how to access the information.
+
+ ## Fourth Lessons:
+
+ > I bet you are thinking it's going to be another cut and paste BLAH thing right? Not quite, these need to be at least somewhat informative so, This was a larger information packed group of lessons, where operators and expressions were covered. Again no downloaded source code is present, I have to memorize some of this somehow after all. The lessons contain simple examples of how each operator can be used, and in the case of Incrementation and Decrementation only Incrementing is used, but the rules present apply to both. In mIxed Expressions This teaches about static_cast(type), but with <> these instead, which is how we manually tell the compiler to check if the associated value can be converted into the specified type, and then to do the conversion. the rest covers relational operators for comparison, and logical operators for flow control and comparisons.
+ >
+ >
