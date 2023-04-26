@@ -35,4 +35,5 @@
 
  > I bet you are thinking it's going to be another cut and paste BLAH thing right? Not quite, these need to be at least somewhat informative so, This was a larger information packed group of lessons, where operators and expressions were covered. Again no downloaded source code is present, I have to memorize some of this somehow after all. The lessons contain simple examples of how each operator can be used, and in the case of Incrementation and Decrementation only Incrementing is used, but the rules present apply to both. In mIxed Expressions This teaches about static_cast(type), but with <> these instead, which is how we manually tell the compiler to check if the associated value can be converted into the specified type, and then to do the conversion. the rest covers relational operators for comparison, and logical operators for flow control and comparisons.
  >
- >
+ >The challenge was to take in an integer and save it as US cents, and write a program that would then print out the number of Dollars, Quarters, Dimes, nickles, and pennies contained in the integer given.
+ >the challenge contains a program with out using the Modulo operator AND one using Modulo.
