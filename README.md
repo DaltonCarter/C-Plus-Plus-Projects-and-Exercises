@@ -37,3 +37,7 @@
  >
  >The challenge was to take in an integer and save it as US cents, and write a program that would then print out the number of Dollars, Quarters, Dimes, nickles, and pennies contained in the integer given.
  >the challenge contains a program with out using the Modulo operator AND one using Modulo.
+
+ ## Fifth Lessons:
+
+ >This section is extemely long, almost 4 hours BEFORE I have to pause, rewind, and type things myself. So it will be split into probably several sessions.
